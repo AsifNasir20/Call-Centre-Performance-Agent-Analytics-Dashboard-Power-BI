@@ -53,6 +53,7 @@ The dashboard provides insights into call volume, month-over-month performance, 
 
 ## 🚀 Key Skills Demonstrated
 Power BI Dashboard Development | KPI Tracking | DAX | Power Query | Data Modeling | Performance Analysis | Data Visualization
+🔗 [LinkedIn](YOUR-LINKEDIN-PROFILE)
 
 ---
 
